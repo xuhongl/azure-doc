@@ -7,7 +7,7 @@ Do you know that with Azure API management service you can take any backend syst
 
 With the power of Azure API management, it is easy to become a digital enterprise, monetize your existing data and services, and open new channel to new customers. Start publishing your APIs, make them available to internal and external developers. To release innovation, and to grow your market share, whether you are a startup or large enterprise, it’s time to join the API economy. Before we dive into the customizing of developer portal, we would like to give a brief introduction of what is Azure API management. 
 
-# Before you start  - prerequisite:
+## Before you start  - prerequisite:
 1.	Create a Azure API Management service instance in your Azure portal
 
 2.	Add a product: Before you can publish an API, you need to add it to a product, which contains one or more APIs and constraints such as a usage quota and term of use. 
@@ -15,3 +15,9 @@ With the power of Azure API management, it is easy to become a digital enterpris
 3.	Import or create a new API
 
 4.	Publish your product to make your API available.
+
+## How to customize the Developer Portal
+### Customize the layout of pages in Publisher Portal
+Before we start customizing the whole developer portal, the first thing we can do is to structure the layout of every page which consists of a set of small page elements known as “widgets”. To structure the layout, open the API Management Service you created in the Azure portal, click “Publisher Portal”:
+
+![416986919](https://iconfinastra.blob.core.windows.net/icons/accounts-payable.png)
