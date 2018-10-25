@@ -20,4 +20,4 @@ With the power of Azure API management, it is easy to become a digital enterpris
 ### Customize the layout of pages in Publisher Portal
 Before we start customizing the whole developer portal, the first thing we can do is to structure the layout of every page which consists of a set of small page elements known as “widgets”. To structure the layout, open the API Management Service you created in the Azure portal, click “Publisher Portal”:
 
-![416986919](https://iconfinastra.blob.core.windows.net/icons/accounts-payable.png)
+![1](https://iconfinastra.blob.core.windows.net/docimage/1.png)
