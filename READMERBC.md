@@ -9,4 +9,4 @@
 -Your Service Principal App ID
 -Your Service Principal Password
 4. The scripts takes X input arguments:
- storageAccountName
+-storageAccountName
